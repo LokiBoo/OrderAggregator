@@ -1,4 +1,4 @@
-﻿## Order Aggregator
+﻿# Order Aggregator
 
 This project is a simple order aggregator that combines multiple orders into a single order. It provides a way to aggregate orders from different sources and generate a consolidated order.
 
@@ -26,5 +26,7 @@ Was tested with JMeter and can handle up to 23000 requests per second (100 produ
 ## Possible improvements
 
 - Add more tests 
+- Add more possibilities for export orders
+- Add health check and metrics
 
 
