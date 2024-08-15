@@ -5,8 +5,8 @@ This project is a simple order aggregator that combines multiple orders into a s
 ## Features
 
 - Aggregates orders from multiple sources
-- Generates a consolidated order
-- Supports customization of aggregation logic
+- Generates and export a consolidated order
+- Supports customization of aggregation and export logic
 - Supports JWT authentication
 
 ## Usage
@@ -25,7 +25,7 @@ Was tested with JMeter and can handle up to 23000 requests per second (100 produ
 
 ## Possible improvements
 
-- Add more tests 
+- Add more tests  
 - Add more possibilities for export orders
 - Add health check and metrics
 
